@@ -7,9 +7,9 @@
         "text": "simple text with button",
         "buttons": [
           {
-            "type": "node",
-            "caption": "Show",
-            "target": "Consulta"
+            "type": "url",
+            "caption": "External link",
+            "url": "https://manychat.com"
           }
         ]
       }
